@@ -2,5 +2,6 @@
     "files.associations": {
         "iostream": "cpp",
         "__config": "cpp"
-    }
+    },
+    "editor.fontSize": 12
 }
